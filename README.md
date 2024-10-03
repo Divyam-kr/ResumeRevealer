@@ -159,7 +159,7 @@ conda create -n awesome-streamlit python
 and activate environment.
 
 ```bash
-activate atreamlit
+activate streamlit
 ```
 
 If you are on windows you need to install some things required by GeoPandas by following [these instructions](https://geoffboeing.com/2014/09/using-geopandas-windows/).
